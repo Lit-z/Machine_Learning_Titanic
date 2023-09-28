@@ -1,3 +1,3 @@
-# Machine_Learning
+# Machine_Learning_Titanic
 
-Machine Learning through different projects and data sets
+Experimentation on the titanic dataset set (from kaggle) using Python within Jupyter Notebook
